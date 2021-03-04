@@ -5,7 +5,7 @@ My name is Vanessa. I am a student of the Ingate Educa platform 🌱
 I intend to be a web developer 🚀
 
 [![IG](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/sinokivanessa)
-[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-c14438?style=flat-square&logo=Yahoo&logoColor=blue&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
+[![Yahoo Badge](https://img.shields.io/badge/-Yahoo-white?style=flat-square&logo=Yahoo&logoColor=blue&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
 
 ### Languages and Tools:
 
