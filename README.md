@@ -7,7 +7,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
+![Yahoo!](https://img.shields.io/badge/-Yahoo!-6001d2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
 
 ### Languages and Tools:
 
