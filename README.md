@@ -6,7 +6,7 @@
  in home office. 🚀
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-sinoki-da-silva-alvarez/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=instagram.com/sinokivanessa/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/sinokivanessa)
 ![Yahoo!](https://img.shields.io/badge/-Yahoo!-6001d2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:vanessasinoki@yahoo.com.br)
 
 ### Languages and Tools:
