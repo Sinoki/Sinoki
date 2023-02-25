@@ -5,7 +5,7 @@
 • Goal: To expand my portifolio and working full stack web developer
  in home office. 🚀
 
-![Linkedin].(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/vanessa-sinoki-da-silva-alvarez/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6001d2?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
 
