@@ -1,9 +1,9 @@
-## Hello 🙂
+## Hello 😀
 
-• I'm currently learning, and developing in front-end. 🌱
+• I'm currently in Curitiba open to work on front-end web development 🌱
 
-• Goal: To expand my portifolio and working full stack web developer
- in home office. 🚀
+• Objetivo: Trabalhar como desenvolvedor web full stack
+ no escritório doméstico. 🚀
 
 [![Yahoo!](https://img.shields.io/badge/-Yahoo!-6001d2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:vanessasinoki@yahoo.com.br)](mailto:vanessasinoki@yahoo.com.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-sinoki-da-silva-alvarez/)
